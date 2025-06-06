@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bryan Chang!</h1>
+<h3 align="center">A software/data-savvy dude from Vancouver</h3>
 
-<h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">software/data-savvy dude from Vancouver</h3>
+- 🔭 I’m currently working at Telus as a data engineer intern. I've previously worked as a software engineer intern at Optum.
+- 🌱 I’m currently learning ...
+- 💬 Ask me about anything! I enjoy connecting with people about many different topics.
+- 📫 How to reach me: ...
+- ⚡ Pachirisu is my favourite pokemon :3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
