@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bryan Chang!</h1>
 <h3 align="center">A software/data-savvy dude from Vancouver</h3>
 
-- 🔭 I’m currently working at Telus as a data engineer intern. I've previously worked as a software engineer intern at Optum.
-- 🌱 I’m currently learning ...
-- 💬 Ask me about anything! I enjoy connecting with people about many different topics.
-- 📫 How to reach me: ...
+- 🔭 Current data engineer intern @ Telus. Previous software engineer intern at Optum.
+- 🏫 Pursuing my BSc. Computer Science and Statistics at UBC! Affectionately known as the chillest CPSC 304 TA 😤 
+- 🌱 Always learning! Some topics I am passionate about include data infrastructure, machine learning, and business intelligence.
+- 🏠 Vancouver born and raised! 🇨🇦 West coast, best coast!
+- 💬 Ask me about anything! I enjoy connecting with people about many different topics. I don't bite, if that helps :)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/chang-bryan/)** or **[Personal Website](https://bc2003.github.io/)**
 - ⚡ Pachirisu is my favourite pokemon :3
 
 <h3 align="left">Connect with me:</h3>
