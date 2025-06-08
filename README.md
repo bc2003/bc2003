@@ -2,7 +2,7 @@
 <h3 align="center">A software/data-savvy dude from Vancouver</h3>
 
 - 🔭 Current data engineer intern @ Telus. Previous software engineer intern at Optum.
-- 🏫 Pursuing my BSc. Computer Science and Statistics at UBC! Affectionately known as the chillest CPSC 304 TA 😤 
+- 🏫 Pursuing my BSc. Computer Science and Statistics at UBC (c/o 2026)! Affectionately known as the chillest CPSC 304 TA 😤 
 - 🌱 Always learning! Some topics I am passionate about include data infrastructure, machine learning, and business intelligence.
 - 🏠 Vancouver born and raised! 🇨🇦 West coast, best coast!
 - 💬 Ask me about anything! I enjoy connecting with people about many different topics. I don't bite, if that helps :)
