@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Chang!</h1>
 <h3 align="center">A software/data-savvy dude from Vancouver</h3>
 
-- 🔭 Current data engineer intern @ Telus. Previous software engineer intern at Optum.
+- 🔭 Hunting for fall 2025 internships. Current data engineer intern @ Telus. Previous software engineer intern at Optum.
 - 🏫 Pursuing my BSc. Computer Science and Statistics at UBC (c/o 2026)! Affectionately known as the chillest CPSC 304 TA 😤 
 - 🌱 Always learning! Some topics I am passionate about include data infrastructure, machine learning, and business intelligence.
 - 🏠 Vancouver born and raised! 🇨🇦 West coast, best coast!
